@@ -1,3 +1,4 @@
+///@mihirx17
 import java.util.*;
 public class Main {
     public  static  void inverted_star_pattern() {
@@ -17,3 +18,4 @@ inverted_star_pattern();
 
     }
 }
+///NOTHING IS GOOD LIKE YOU
