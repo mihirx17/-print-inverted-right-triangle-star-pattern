@@ -1,0 +1,1 @@
+# -print-inverted-right-triangle-star-pattern
